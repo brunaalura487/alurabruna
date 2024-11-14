@@ -47,7 +47,7 @@ p {
 
 .categoria-videos img {
     opacity: 0.5;
-    height: 100px;
+    height: 200px;
 }
 
 .categoria-videos img:hover {
@@ -57,4 +57,19 @@ p {
 
 .categoria h2 {
     color: rgb(42, 122, 228);
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+img{
+    height: 200px;
 }
